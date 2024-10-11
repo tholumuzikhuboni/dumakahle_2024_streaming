@@ -412,7 +412,7 @@ body:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); 
   z-index: 4;
 }
 
-.playlist:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); }
+.playlist:hover::-webkit-scrollbar-thumb { background-color: darkgoldenrod; }
 
 .playlist.active {
   transform: translateX(-180px);
