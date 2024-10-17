@@ -1,10 +1,25 @@
-# Hello 👋
+# Dumakahle Music Player
+## Preview
 
-Welcome to **uDumakahle 2024 album streaming web app**
+![KFC Landing Page](./assets/kfc-landing-page-screenshot.png)
+A simple music player website created for my favorite Maskandi artist, **Dumakahle**. Built using **HTML**, **CSS**, and **JavaScript**, this web app allows users to play and enjoy a curated selection of Dumakahle's music.
 
-- 💼 I built this web app using **HTML** **CSS** **JavaScript**
-- 🎯 This web app allows you to stream all the 15 songs of iPhatha's 2024 hit album for free, with no ads and supports background play.
+## Features
 
-# Contact 👋
-- 📧 **contact@tholumuzi.co.za**
-- 📌 **South Africa**
+- **Play, Pause, and Stop Controls:** Basic music controls for easy navigation.
+- **Custom UI:** A minimalist design inspired by Dumakahle's style.
+- **Responsive Layout:** The player adjusts to different screen sizes for both mobile and desktop users.
+- **Track List:** Easily switch between different tracks.
+
+## Tech Stack
+
+- **HTML** - For structuring the web page and music player.
+- **CSS** - For styling the player and the layout.
+- **JavaScript** - For adding functionality like play, pause, and stop controls.
+
+## Getting Started
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/tholumuzikhuboni/dumakahle-music-player.git
