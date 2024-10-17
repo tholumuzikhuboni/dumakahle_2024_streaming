@@ -1,7 +1,7 @@
 # Dumakahle Music Player
 ## Preview
 
-![KFC Landing Page](./assets/kfc-landing-page-screenshot.png)
+![Dumakahle Music Player](./images/dumakahle-preview.png)
 A simple music player website created for my favorite Maskandi artist, **Dumakahle**. Built using **HTML**, **CSS**, and **JavaScript**, this web app allows users to play and enjoy a curated selection of Dumakahle's music.
 
 ## Features
